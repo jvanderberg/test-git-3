@@ -1,0 +1,97 @@
+{
+  "source": "City of Chicago Data Portal, CTA - 'L' (Rail) Stations, dataset 8pix-ypme (https://data.cityofchicago.org/resource/8pix-ypme.json)",
+  "retrieved": "2025-10-09",
+  "filter": "coordinates lat 41.86-41.92, lon -87.84 to -87.75; one entry per map_id; line flags from source columns",
+  "stations": [
+    {
+      "map_id": "40010",
+      "name": "Austin (Blue Line)",
+      "lat": 41.870851,
+      "lon": -87.776812,
+      "lines": [
+        "blue"
+      ]
+    },
+    {
+      "map_id": "41260",
+      "name": "Austin (Green Line)",
+      "lat": 41.887293,
+      "lon": -87.774135,
+      "lines": [
+        "g"
+      ]
+    },
+    {
+      "map_id": "40280",
+      "name": "Central (Green Line)",
+      "lat": 41.887389,
+      "lon": -87.76565,
+      "lines": [
+        "g"
+      ]
+    },
+    {
+      "map_id": "40390",
+      "name": "Forest Park (Blue Line)",
+      "lat": 41.874257,
+      "lon": -87.817318,
+      "lines": [
+        "blue"
+      ]
+    },
+    {
+      "map_id": "40980",
+      "name": "Harlem (Blue Line - Forest Park Branch)",
+      "lat": 41.87349,
+      "lon": -87.806961,
+      "lines": [
+        "blue"
+      ]
+    },
+    {
+      "map_id": "40020",
+      "name": "Harlem/Lake (Green Line)",
+      "lat": 41.886848,
+      "lon": -87.803176,
+      "lines": [
+        "g"
+      ]
+    },
+    {
+      "map_id": "40700",
+      "name": "Laramie (Green Line)",
+      "lat": 41.887163,
+      "lon": -87.754986,
+      "lines": [
+        "g"
+      ]
+    },
+    {
+      "map_id": "41350",
+      "name": "Oak Park (Green Line)",
+      "lat": 41.886988,
+      "lon": -87.793783,
+      "lines": [
+        "g"
+      ]
+    },
+    {
+      "map_id": "40180",
+      "name": "Oak Park (Blue Line)",
+      "lat": 41.872108,
+      "lon": -87.791602,
+      "lines": [
+        "blue"
+      ]
+    },
+    {
+      "map_id": "40610",
+      "name": "Ridgeland (Green Line)",
+      "lat": 41.887159,
+      "lon": -87.783661,
+      "lines": [
+        "g"
+      ]
+    }
+  ]
+}
